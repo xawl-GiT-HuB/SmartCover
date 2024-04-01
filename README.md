@@ -7,7 +7,7 @@
 
 接线说明：
 
-	1.BUZZER
+		1.BUZZER
 			1.1连线
 				I/O  -->  GPIOB.12
 				VCC 3.3V
