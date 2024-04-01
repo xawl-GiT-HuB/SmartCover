@@ -59,7 +59,7 @@
 				GND  -->  GND
 				VCC 3.3V
 
-    9.GA7
+    		9.GA7
 			9.1连线
 				RX  -->  USART2_TX  GPIOA.2
 				TX  -->  USART2_RX	GPIOA.3
